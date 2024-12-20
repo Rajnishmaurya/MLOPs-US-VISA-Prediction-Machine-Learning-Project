@@ -2,7 +2,7 @@
 
 - Flowchart: https://whimsical.com/
 - MLOPs Tool: https://www.evidentlyai.com/
--MongoDB: https://account.mongodb.com/account/login
+- MongoDB: https://account.mongodb.com/account/login
 
 ## Git commands
 
